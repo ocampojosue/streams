@@ -3,11 +3,13 @@
     "id": 1,
     "name": "Unitel",
     "image": "https://i.imgur.com/B9wg1zj.png",
-    "channels": {
-      "id": 1,
-      "name": "Unitel Santa Cruz",
-      "image": "https://i.imgur.com/B9wg1zj.png",
-      "urlSource": "https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/UNITEL/__op/hls-default/__f/index.m3u8"
-    }
+    "channels": [
+      {
+        "id": 1,
+        "name": "Unitel Santa Cruz",
+        "image": "https://i.imgur.com/B9wg1zj.png",
+        "urlSource": "https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/UNITEL/__op/hls-default/__f/index.m3u8"
+      }
+    ]
   }
 ]
